@@ -1,7 +1,7 @@
-👋 Hello! I am Ryan. I am usually referred to as @DeltaVar online.
-=> More about myself
+👋 Hello! I am Ryan. I am usually referred to as @DeltaVar online.\n
+=> More about myself \n
 I am 17 years old this year, a Singaporean &#x1f1f8;&#x1f1ec; and an aspiring pilot🧑‍✈️currently specializing in the Aerospace Engineering Major.
-I have had 4 years of developing experiences with many popular clients. I always prefer to charge way cheaper than usual just to gain experience and help out beginner project starters.
+I have had 4 years of developing experiences with many popular clients. I always prefer to charge way cheaper than usual just to gain experience and help out beginner project starters. \n
 
 => 🛠️ Developer Specialization
 Discord Bot Development [ Experienced ] 
