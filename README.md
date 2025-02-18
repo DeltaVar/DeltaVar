@@ -14,8 +14,8 @@ besides my own projects. I understand that this may result in distrust, but clie
 Atlas Research Corporation <ins>**[ https://www.eclipseresearch.net ]**</ins>  \
 Pan Pacific Defense Corps <ins>**[ Unavailable atm ]**</ins>
 ## 📩 Methods of Contact
-Email me directly @ **deltavar@eclipseresearch.net**
-Discord: deltavar
+Email me directly @ **deltavar@eclipseresearch.net**  \
+Discord: **deltavar**
 
 <!---
 DeltaVar/DeltaVar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
