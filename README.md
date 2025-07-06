@@ -14,7 +14,7 @@ besides my own projects. I understand that this may result in distrust, but clie
 Atlas Research Corporation <ins>**[ https://www.eclipseresearch.net ]**</ins>  \
 Pan Pacific Defense Corps <ins>**[ Unavailable atm ]**</ins>
 ## 📩 Methods of Contact
-Email me directly @ **deltavar@eclipseresearch.net**  \
+Email me directly @ **deltavar@atlasresearchcorps.com**  \
 Discord: **deltavar**
 
 <!---
