@@ -11,7 +11,7 @@ Databases (mySQL, Firebase) ---------------- <ins>**[ Experienced ]**</ins>
 Due to to nature of all the studios/clients I have worked for, a NDA was mandatory. Hence, I will not be able to show any work  \
 besides my own projects. I understand that this may result in distrust, but client confidentiality comes first.
 ## 🏗️ Projects
-Atlas Research Corporation <ins>**[ https://www.eclipseresearch.net ]**</ins>  \
+Atlas Research Corporation <ins>**[ https://www.atlasresearchcorps.com ]**</ins>  \
 Pan Pacific Defense Corps <ins>**[ Unavailable atm ]**</ins>
 ## 📩 Methods of Contact
 Email me directly @ **deltavar@atlasresearchcorps.com**  \
